@@ -91,9 +91,9 @@ export const projectsData = [
 
 export const BtnList = [
   { label: "Home", link: "/", icon: "home", newTab: false },
-  { label: "About", link: "/coming-soon", icon: "about", newTab: false },
+  { label: "About", link: "/about", icon: "about", newTab: false },
   { label: "Projects", link: "/coming-soon", icon: "projects", newTab: false },
-  { label: "Contact", link: "/coming-soon", icon: "contact", newTab: false },
+  { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
     link: "https://www.github.com/faik2010",
@@ -106,12 +106,7 @@ export const BtnList = [
     icon: "linkedin",
     newTab: true,
   },
-  {
-    label: "X",
-    link: "https://www.x.com/",
-    icon: "twitter",
-    newTab: true,
-  },
+
   {
     label: "Resume",
     link: "/Faik_Pirincci_CV.pdf",
